@@ -8,3 +8,5 @@ Condensed CSS Style Sheet to minimize repetitive code.
 Added helpful comments to CSS Style Sheet.
 
 Lack of commits as I just kept saving and refreshing my adjustments to the code in browser. :( 
+
+![img](./assets/images/mockup.png)
